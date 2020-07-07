@@ -82,3 +82,18 @@ body {
 #portText h2 {
   visibility: hidden;
 }
+
+.portSection{
+  background: radial-gradient(transparent, #00000054);
+  box-shadow: 10px 5px grey;
+  height: 75px;
+  width: 480px;
+  border: solid;
+  padding: 10px;
+  margin: 0px 0px 10px;
+}
+#portText {
+  padding: 5px 30px 12px;
+  background-image: url() no-repeat center center fixed;
+  background-size: cover;
+}
