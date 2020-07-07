@@ -64,7 +64,7 @@ body {
 }
 
 #portBody {
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(187, 173, 173, 0);
   border: none;
 }
 #portNav {
@@ -81,21 +81,4 @@ body {
 
 #portText h2 {
   visibility: hidden;
-}
-
-#card{
-position: absolute;
-z-index: 1;
-box-shadow: 0 4px 8px 0 rgba(0,0,0,0.9);
-transition: 0.3s;
-width: 170px;
-border-radius: 5px;
-margin-top: 70px;
-margin-left: 150px;
-border-style: solid;
-background-color: #333;
-}
-
-#cardInfo{
-padding: 2px 16px;
 }
