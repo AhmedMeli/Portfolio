@@ -18,8 +18,12 @@ body {
 }
 
 #portNav ul{
-  padding: 0px 0px 0px 230px;
+  padding: 0px 0px 0px 180px;
 }
+
+#portNav ul li{
+  text-transform: uppercase;
+ }
 
 #portNav ul li a{
  text-align: center;

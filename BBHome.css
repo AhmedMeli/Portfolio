@@ -35,14 +35,17 @@ body {
 }
 
 #portNav ul{
-  padding: 0px 0px 0px 230px;
+  padding: 0px 0px 0px 180px;
 }
+
+#portNav ul li{
+  text-transform: uppercase;
+ }
 
 #portNav ul li a{
  text-align: center;
  font-weight: bold;
 }
-
 
 #portText .portSection h3.section-title{
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
@@ -54,5 +57,6 @@ body {
   padding-left: 355px;
   font-size: 222%;
 }
+
 
 
