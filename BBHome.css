@@ -41,6 +41,10 @@ body {
 #portNav ul li{
   text-transform: uppercase;
  }
+ 
+ #portNav ul li:hover{
+  text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
+ }
 
 #portNav ul li a{
  text-align: center;
