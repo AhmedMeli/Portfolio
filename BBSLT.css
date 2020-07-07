@@ -13,6 +13,10 @@ body {
   border: solid #3d3d3d;
 }
 
+#portNav{
+  border: 3px solid #3D3D3D;
+}
+
 #portNav ul{
   padding: 0px 0px 0px 230px;
 }
@@ -39,4 +43,5 @@ body {
 #portText > h2{
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
   padding-left: 310px;
+  font-size: 222%;
 }
