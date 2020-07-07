@@ -23,6 +23,7 @@ body {
 
 #portNav ul li a{
  text-align: center;
+ font-weight: bold;
 }
 
 .portSection .vtbegenerated{
