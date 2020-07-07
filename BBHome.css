@@ -14,8 +14,13 @@ body {
   border: solid;
   padding: 10px;
   margin: 0px 0px 10px;
+  border-radius: 5px;
 }
 #portText {
   padding: 5px 30px 12px;
-  background-color: lightgray;
+}
+
+#portBody{
+  min-height: 70px;
+  border-radius: 5px;
 }
