@@ -1,47 +1,4 @@
 
-/* test up */
-/*Footer */
-#portHeader, #portFooter {
-  color: white;
-  text-align: center;
-  font-size: large;
-  background: transparent;
-  border:none;
-  padding: 0px;
-}
-/* Mobile menu */
-.portNavMobileButton {
-  position: absolute;
-  right: 0;
-  top: 13px;
-  font-size: 180%;
-  color: goldenrod;
-  padding: 4px 6px 8px 2px;
-  background-color: #777;
-  border-radius: 0 12px 12px 0;
-  line-height: 1;
-  border: 1px solid #666;
-  border-width: 1px 1px 1px 0;
-  transition: left 300ms cubic-bezier(1, -0.68, 0.6, 0.94);
-  z-index: 9000;
-  width: 10px;
-  height: 30px;
-  padding-left: 8px;
-  padding-top: 8px;
-  visibility: visible;
-  opacity: 0.7;
-}
-/* Better comment bar */
-.portLivePreviewActionBar {
-  position: absolute!important;
-  top: 0px;
-  height: 45px;
-  width: 100%;
-  background: transparent!important;
-  color: white;
-  z-index: 99999999;
-}
-
 /*Close Button*/
 .closePreview {
   background:black!important;
