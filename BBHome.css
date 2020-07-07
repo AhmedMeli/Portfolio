@@ -23,42 +23,40 @@ body {
   
 }
 
-#portBody{
+#portBody {
   min-height: 70px;
   border-radius: 5px;
   background-color: lightgray;
   border: solid #3d3d3d;
 }
 
-#portNav{
+#portNav {
   border: 3px solid #3D3D3D;
 }
 
-#portNav ul{
+#portNav ul {
   padding: 0px 0px 0px 180px;
 }
 
-#portNav ul li{
+#portNav ul li {
   text-transform: uppercase;
- }
+}
  
- #portNav ul li:hover{
+#portNav ul li:hover{
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
-  color: lightgray!important;
-  cursor: none;
- }
+}
 
-#portNav ul li a{
+#portNav ul li a {
  text-align: center;
  font-weight: bold;
 }
 
-#portText .portSection h3.section-title{
+#portText .portSection h3.section-title {
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
   font-size: 140%;
 }
 
-#portText > h2{
+#portText > h2 {
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
   padding-left: 355px;
   font-size: 222%;
