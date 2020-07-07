@@ -41,14 +41,15 @@ body {
 #portNav ul li {
   text-transform: uppercase;
 }
- 
-#portNav ul li:hover{
-  text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
-}
 
 #portNav ul li a {
- text-align: center;
- font-weight: bold;
+  text-align: center;
+  font-weight: bold;
+  transition: 0.6s;
+}
+ 
+#portNav ul li a:hover{
+  text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
 }
 
 #portText .portSection h3.section-title {
