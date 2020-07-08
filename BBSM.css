@@ -71,3 +71,19 @@ body {
 #portBody .portSection div.vtbegenerated,h3 {
   text-align: center;
 }
+
+#portText .portSection h3.section-title {
+  color: white;
+  font-size:3.5vmin;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  text-transform: capitalize;
+  border-radius: 25px;
+  border: 2px solid #ff5f45;
+  text-align:center;
+  padding:10px 0px;
+  margin-top:50px;
+  width:50%;
+  left: 50%;
+  top: 50%;
+  transform: translate(50%, -50%);
