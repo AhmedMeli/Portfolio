@@ -57,3 +57,17 @@ body {
   padding-left: 310px;
   font-size: 222%;
 }
+/* Accordion Took me a while to figure it out */
+
+#portBody .portSection div.vtbegenerated {
+  display: none;
+}
+#portBody .portSection:hover div.vtbegenerated{
+  display: inherit;
+  text-align:center;
+  font-size: 15px;;
+}
+/* Section Text Center*/
+#portBody .portSection div.vtbegenerated,h3 {
+  text-align: center;
+}
