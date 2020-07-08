@@ -18,16 +18,17 @@ body {
   border-radius: 5px;
 }
 .portSection .vtbegenerated .overlay {
-  background: radial-gradient(#00000017, #00000082);
-  position: absolute;
+  position: relative;
   bottom: 0;
+  background: radial-gradient(#00000017, #00000082);
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
   transition: .5s ease;
   font-size: 20px;
   padding: 20px;
   text-align: center;
   margin-bottom: -50px;
-  right: 188px;
+  left: 655px;
+  top: 156px;
   width: 181px;
   border-radius: 3px;
 }
