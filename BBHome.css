@@ -8,6 +8,7 @@ body {
 
 .portSection .vtbegenerated{
   background: radial-gradient(transparent, #00000054);
+  /*background: radial-gradient(#0008ff00, #ffbb00ad);*/
   box-shadow: 10px 5px grey;
   height: 75px;
   width: 480px;
@@ -16,6 +17,26 @@ body {
   margin: 0px 0px 10px;
   border-radius: 5px;
 }
+.portSection .vtbegenerated .overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.overlay:hover{
+  opacity: 1;
+}
+
+
 
 #portText {
   padding: 5px 30px 12px;
