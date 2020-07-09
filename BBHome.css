@@ -20,12 +20,13 @@ body {
 .portSection .vtbegenerated p a{
   transition: 0.6s;
   text-decoration: none;
-  color: #3D3D3D;
+  color: black;
 }
 
 .portSection .vtbegenerated p a:hover{
   text-shadow: 0 0 3px #000000, 0 0 5px #1DA1F2;
-  color: lightgray;
+  color: #1DA1F2;
+  
 }
 
 .portSection .vtbegenerated .overlay {
