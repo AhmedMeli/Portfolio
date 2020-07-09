@@ -16,6 +16,15 @@ body {
   margin: 0px 0px 10px;
   border-radius: 5px;
 }
+
+.portSection .vtbegenerated p a{
+  transition: 0.6s;
+}
+
+.portSection .vtbegenerated p a:hover{
+  text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
+}
+
 .portSection .vtbegenerated .overlay {
   position: relative;
   bottom: 0;
@@ -27,7 +36,7 @@ body {
   text-align: center;
   margin-bottom: -50px;
   left: 653px;
-  top: 156px;
+  top: 30px;
   width: 185px;
   height: 24px;
   border-radius: 3px;
