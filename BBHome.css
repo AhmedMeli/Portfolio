@@ -1,12 +1,15 @@
 body {
   background-image: linear-gradient(to right top, #000000, #532623, #975420, #bb9900, #a8eb12);
+  height: 100%;
+  width: 100%;
+  background-repeat: repeat;
 }
 
 .portSection .vtbegenerated{
   background: radial-gradient(transparent, #00000054);
-  /*background: radial-gradient(#0008ff00, #ffbb00ad);*/
+  /* background: radial-gradient(#0008ff00, #ffbb00ad); */
   box-shadow: 10px 5px grey;
-  height: 75px;
+  /* height: 75px; */
   width: 480px;
   border: solid;
   padding: 10px;

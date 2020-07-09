@@ -1,9 +1,8 @@
 body {
-  background-color: rgb(255, 187, 0)!important;
+   background-image: linear-gradient(to right top, #000000, #532623, #975420, #bb9900, #a8eb12);
   height: 100%;
   width: 100%;
-  background: url();
-  /*font-family: ;*/
+  background-repeat: repeat;
  }
 
 #portBody{
@@ -57,8 +56,9 @@ body {
   padding-left: 310px;
   font-size: 222%;
 }
-/* Accordion Took me a while to figure it out */
 
+/* Accordion Took me a while to figure it out */
+/*
 #portBody .portSection div.vtbegenerated {
   display: none;
 }
@@ -67,7 +67,9 @@ body {
   text-align:center;
   font-size: 15px;;
 }
+*/
 /* Section Text Center*/
+/*
 #portBody .portSection div.vtbegenerated,h3 {
   text-align: center;
 }
@@ -87,4 +89,26 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(50%, -50%);
+}
+*/
+
+#portText .portSection h3 {
+  display: block;
+  margin: 5px;
+  padding: 2px;
+  align-content: center;
+  text-align: center;
+}
+.autoClickOnArtifactPreview {
+  background: radial-gradient(transparent, #00000054);
+  border: 1px solid #3D3D3D;
+  box-shadow: 10px 5px grey;
+  border-radius: 5px;
+  padding: 10px;
+  transition: 0.6s;
+}
+.autoClickOnArtifactPreview:hover{
+  text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
+  color: lightgray;
+  background-color: lightgray;
 }
