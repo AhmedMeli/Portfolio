@@ -22,7 +22,8 @@ body {
 }
 
 .portSection .vtbegenerated p a:hover{
-  text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
+  text-shadow: 0 0 3px #000000, 0 0 5px #1DA1F2;
+  color: lightgray;
 }
 
 .portSection .vtbegenerated .overlay {
