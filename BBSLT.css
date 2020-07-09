@@ -51,8 +51,16 @@ body {
   font-size: 140%;
 }
 
+#portText .portSection h3 {
+  display: block;
+  margin: 5px;
+  padding: 2px;
+  align-content: center;
+  text-align: center;
+}
+
 #portText > h2{
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
-  padding-left: 310px;
-  font-size: 222%;
+  padding-left: 280px;
+  font-size: 300%;
 }
