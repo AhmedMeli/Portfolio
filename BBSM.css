@@ -1,5 +1,5 @@
 body {
-   background-image: linear-gradient(to right top, #000000, #532623, #975420, #bb9900, #a8eb12);
+  background-image: linear-gradient(to right top, #000000, #532623, #975420, #bb9900, #a8eb12);
   height: 100%;
   width: 100%;
   background-repeat: repeat;
@@ -53,8 +53,8 @@ body {
 
 #portText > h2{
   text-shadow: 0 0 3px #000000, 0 0 5px #ffbb00;
-  padding-left: 310px;
-  font-size: 222%;
+  padding-left: 365px;
+  font-size: 250%;
 }
 
 /* Accordion Took me a while to figure it out */
